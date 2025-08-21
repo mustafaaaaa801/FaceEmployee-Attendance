@@ -60,7 +60,7 @@ faceemployee/
 │── attendance.xlsx          # ملف تسجيل الحضور
 │── requirements.txt         # المكتبات المطلوبة
 │── README.md                # هذا الملف
-
+لأي مشاكل تواجهك في الكود يرجى التواصل على الايميل mustafazamzamkazak@gmail.com
 License / الترخيص
 
 MIT License
